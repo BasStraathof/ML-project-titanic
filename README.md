@@ -1,4 +1,4 @@
-# ML-project-titanic
+# Machine Learning bachelor course project: Kaggle Competition Titanic
 Machine Learning final project - Philip Hartout, Vincent Roest &amp; Bas Straathof
 
 The report is research\_paper.pdf and all Python code can be found in titanic.ipynb.
